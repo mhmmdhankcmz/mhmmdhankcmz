@@ -1,6 +1,6 @@
 <row>
-<img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" width="800" height="300"/>
-<img src="https://storage.googleapis.com/cms-storage-bucket/780e0e64d323aad2cdd5.png" width="500" height="300"/>
+<img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" width="600" height="150"/>
+<img src="https://storage.googleapis.com/cms-storage-bucket/780e0e64d323aad2cdd5.png" width="300" height="150"/>
   </row>
 
 <h3> 👋 Hi, I’m @mhmmdhankcmz</h3>
