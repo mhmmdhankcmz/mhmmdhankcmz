@@ -11,7 +11,7 @@
 
 
   <td>
-  <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" width="100" height="50"/>
+  <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" width="150" height="50"/>
   </td>
   
 
