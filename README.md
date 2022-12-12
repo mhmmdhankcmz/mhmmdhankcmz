@@ -13,7 +13,7 @@
   <td>
   <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" width="150" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/1280px-Android_Studio_Trademark.svg.png" width="150" height="50"/>
-    <img src="https://w7.pngwing.com/pngs/101/702/png-transparent-firebase-web-application-database-firebase-angle-computer-orange.png" width="150" height="50"/>
+    <img src="https://icon2.cleanpng.com/20180402/cae/kisspng-firebase-software-development-kit-application-prog-best-5ac2960b8f3856.0988431215227018355866.jpg" width="150" height="50"/>
   </td>
   </table>
 
