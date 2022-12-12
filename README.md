@@ -1,7 +1,7 @@
-<article>
+<row>
 <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" width="800" height="300"/>
 <img src="https://storage.googleapis.com/cms-storage-bucket/780e0e64d323aad2cdd5.png" width="500" height="300"/>
-  </article>
+  </row>
 
 <h3> 👋 Hi, I’m @mhmmdhankcmz</h3>
 <h3> 👀 I’m interested in FLutter</h3>
