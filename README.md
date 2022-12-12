@@ -12,7 +12,7 @@
 
   <td>
   <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" width="150" height="50"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FDosya%3ADart_programming_language_logo.svg&psig=AOvVaw2DI_7tjdLC_sBUuqmKT9fO&ust=1670938354680000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCNisuY9PsCFQAAAAAdAAAAABAS" width="150" height="50"/>
+  <img src="https://e7.pngegg.com/pngimages/626/425/png-clipart-dart-programming-language-web-application-syntax-darts-miscellaneous-text.png" width="150" height="50"/>
   </td>
   
 
