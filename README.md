@@ -12,7 +12,7 @@
 
   <td>
   <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" width="150" height="50"/>
-  <img src="https://e7.pngegg.com/pngimages/106/833/png-clipart-dart-logo-programming-language-computer-programming-android-text-logo.png" width="150" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/1280px-Android_Studio_Trademark.svg.png" width="150" height="50"/>
   </td>
   
 
