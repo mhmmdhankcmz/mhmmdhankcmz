@@ -1,8 +1,8 @@
 <table>
-  <th>
+  <td>
 <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" width="400" height="100"/>
 <img src="https://storage.googleapis.com/cms-storage-bucket/780e0e64d323aad2cdd5.png" width="200" height="100"/>
-  </th>
+  </td>
   </table>
 
 <h3> 👋 Hi, I’m @mhmmdhankcmz</h3>
