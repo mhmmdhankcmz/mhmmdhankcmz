@@ -2,7 +2,7 @@
 - 👀 I’m interested in FLutter
 - 🌱 I improve myself more with flutter
 
-<img src="[https://w7.pngwing.com/pngs/649/174/png-transparent-dart-google-developers-flutter-android-darts-text-logo-web-application.png](https://storage.googleapis.com/cms-storage-bucket/780e0e64d323aad2cdd5.png)" width="300" height="300"/>
+<img src="https://storage.googleapis.com/cms-storage-bucket/780e0e64d323aad2cdd5.png" width="300" height="300"/>
 
 
 
